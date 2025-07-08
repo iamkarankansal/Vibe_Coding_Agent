@@ -32,3 +32,6 @@
 
 ![Screenshot 2025-07-08 085418](https://github.com/user-attachments/assets/e1d2deee-8957-485f-8efd-9a5f055a0ac1)
 
+
+
+### Note: Use python version=3.11
